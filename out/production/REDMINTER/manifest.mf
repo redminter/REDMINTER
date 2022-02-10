@@ -1,0 +1,1 @@
+Main-Class: main.java.com.softserve.project.Game2048(1)
